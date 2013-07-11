@@ -1,0 +1,1 @@
+You should place all of your site's image files in the 'img' folder. This file is not important and can be deleted.
